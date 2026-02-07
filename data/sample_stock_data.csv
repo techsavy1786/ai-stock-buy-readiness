@@ -1,0 +1,9 @@
+ticker,company_name,sector,revenue_growth_3y,profit_growth_3y,roe,debt_to_equity,pe_current,pe_5y_avg,margin_trend
+TCS,Tata Consultancy Services,IT,12,10,38,0.05,28,30,improving
+INFY,Infosys,IT,11,9,32,0.10,26,27,stable
+HDFCBANK,HDFC Bank,Banking,16,18,17,0.80,19,20,stable
+RELIANCE,Reliance Industries,Energy,14,12,10,0.90,24,22,declining
+ITC,ITC Ltd,FMCG,8,7,28,0.20,25,23,stable
+YESBANK,Yes Bank,Banking,3,-2,5,1.50,60,35,declining
+PAYTM,Paytm,Fintech,25,-10,-8,0.40,NA,NA,declining
+DMART,DMart,Retail,20,18,22,0.10,85,70,stable

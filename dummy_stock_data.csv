@@ -1,0 +1,9 @@
+company,revenue_growth_3y,profit_growth_3y,roe,debt_to_equity,margin_trend,pe_current,pe_5y_avg
+TCS,8,10,38,0.10,stable,28,25
+Infosys,9,12,32,0.20,improving,22,24
+HDFC Bank,12,14,18,0.80,stable,19,21
+Reliance,15,16,14,0.90,improving,24,22
+HUL,7,9,30,0.05,stable,45,40
+ITC,10,11,28,0.30,improving,18,20
+L&T,14,13,16,1.20,stable,21,23
+Bharti Airtel,18,20,12,1.50,improving,35,30
